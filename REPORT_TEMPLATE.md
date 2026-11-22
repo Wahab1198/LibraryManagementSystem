@@ -1,10 +1,11 @@
 # Open-Ended Lab (OEL) Report
 ## Java-Based Library Book Management System Using Modern Software Construction Tools
 
-**Course:** [Enter course name]  
-**Instructor:** [Enter instructor name]  
-**Group Member 1:** [Name and registration number]  
-**Group Member 2:** [Name and registration number]  
+**Course:** [Softwware Construction]  
+**Instructor:** [Maam Aqsa]  
+**Group Member 1:** [534752 Abdul Wahab]  
+**Group Member 2:** [534748 Aswad Tahoor Ahmed]
+**Group Member 3:** [Muhammad Usama Ramzan]  
 **Submission Date:** 22 November 2026
 
 ## 1. Objective
